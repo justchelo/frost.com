@@ -1,0 +1,67 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 100px;
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+  text-align: center;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 50%;
+  font-size: 18px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+  text-align: center;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0 auto;
+}
+
+th, td {
+  border: 20px solid black;
+  padding: 20px;
+  text-align: left;
+  font-size: 20px;
+  
+}
+
+h1{
+  text-align: center;
+  font-size: larger;
+  
+}
+
+
+p {
+ text-align: center;
+ font-size: large;
+ font-style: bold;
+ font-stretch: condensed;
+   font-family: arial;
+}
+
